@@ -20,6 +20,12 @@ const emojipedia = [
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“.",
   },
+  {
+    id: 4,
+    emoji: "😃",
+    name: "Smiling Face With Open Mouth",
+    meaning: "GoodMood, cheerfulness,laughter,positive energy",
+  },
 ];
 
 export default emojipedia;
